@@ -9,10 +9,13 @@
       h1{
       color: green;
       }
+      body{
+      bckground-color: yellow;
+      }
       
     </style>
   </head>
   <body>
-    <h1 style="color:red">TRIBUTE TO FARMER</h1>
+    <h1>TRIBUTE TO FARMER</h1>
   </body>
   </html>
